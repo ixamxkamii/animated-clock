@@ -24,7 +24,7 @@ html {
   position: absolute;
   width: 14px;
 
-  transform-origin: 50% calc(100% - 8px)
+  transform-origin: 50% calc(100% - 8px);
 }
 
 .hand-minute {
@@ -44,4 +44,5 @@ html {
   100% {
     transform: rotate(360deg);
   }
+
 }
